@@ -2,6 +2,4 @@
 
 Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 
-![This is an image](https://media.tenor.com/M1KPEboSVCEAAAAM/yasincengiz38-skibididop.gif)
-
-![This is an image](/img/cj.jpg)
+![This is an image](https://media.tenor.com/4-2ipSO3LyAAAAAM/roger-guedes-corinthians-x-palmeiras.gif)
